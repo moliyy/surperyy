@@ -1,0 +1,2 @@
+# surperyy
+set a blog 
